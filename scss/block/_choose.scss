@@ -1,0 +1,44 @@
+.choose__major{
+    position: relative;
+    max-width: 1280px;
+    height: 474px;
+    background: #2C343E;
+border-radius: 10px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 88px 85px;
+margin-left: auto;margin-right: auto;
+margin-bottom: 168px;
+}
+.choose_include-title-and-text{
+    max-width: 540px;
+    height: 210px;
+margin-right: 125px;
+}
+.choose_title{
+    max-width: 502px;
+    height: 48px;
+font-family: 'Fraunces';
+font-weight: 900;
+font-size: 40px;
+line-height: 48px;
+color: #FEFCF7;
+margin-bottom: 32px;
+}
+.choose__image{
+    position: absolute;
+    
+    left: 59%;
+    top: -15%;
+}
+.choose__text{
+    max-width: 540px;
+    height: 130px;
+    font-family: 'Barlow';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FEFCF7;
+opacity: 0.8;
+}
